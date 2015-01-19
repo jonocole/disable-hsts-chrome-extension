@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "disable-hsts",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Disable HSTS (Warning this may leave your browser vulnerable!)",
+    "description": "The description of the application"
+  }
+}
